@@ -1,0 +1,17 @@
+{
+	"all": {
+		"changelog": {
+			"currentversion": "1.6.2"
+		},
+		"general": {
+			"addToSettings": true,
+			"reloadButton": true
+		},
+		"settings": {
+			"displayNative": false,
+			"addOldBar": true,
+			"addToSettings": true,
+			"reloadButton": true
+		}
+	}
+}

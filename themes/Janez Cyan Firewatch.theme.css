@@ -1,0 +1,27 @@
+/**
+ * @name OverrideBasicBackground-JanezCustomCSS
+ * @description Add FireWatch theme CSS to override BasicBackgroundTheme
+ * @author Janez33
+ * @version 1.0.5
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate janez33
+ * @patreon janez33
+ * @website https://github.com/janez33/My-BetterDiscord-Addons
+ * @source https://github.com/janez33/My-BetterDiscord-Addons/themes
+ * @updateUrl https://github.com/janez33/My-BetterDiscord-Addons/themes/Janez Cyan Firewatch.theme.css
+ */
+
+:root {
+    --transparencycolor: 2,51,63;		/* default: 0,0,0 */
+    --transparencyalpha: 0;		/* default: 0.15 */
+    --messagetransparency: 0.15;		/* default: 0.5 */
+    --guildchanneltransparency: 0.4;	/* default: 0.15 (additional darkness for guild/channel list can be changed in case a bright background makes the list hard to read) */
+    --memberlistransparency: 0.4;		/* default: 0 (additional darkness for member list can be changed in case a bright background makes the list hard to read)*/
+    --accentcolor: 0,204,204; 		/* default: 190,78,180 discord: 114,137,218 bd-blue: 58,113,193*/
+    --background: url("https://i.imgur.com/6f8vevM.jpg"); /* replace the link in url() with your own direct image link to change the background */
+    --backdrop: rgba(0,0,0,0.4);	/* default: rgba(0,0,0,0.4) can also be changed to an image like --background */
+    --backgroundblur: 0px;				/* default: 0px only works when --background is set to an image */
+	--popoutblur: 0px;					/* default: 0px only works when --background is set to an image */
+	--backdropblur: 0px;				/* default: 0px only works when --backdrop is set to an image */
+}
