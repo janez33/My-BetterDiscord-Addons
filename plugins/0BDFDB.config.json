@@ -5,7 +5,8 @@
 			"CompleteTimestamps": "1.6.7",
 			"ImageUtilities": "5.2.4",
 			"MessageUtilities": "1.9.6",
-			"OldTitleBar": "1.7.6"
+			"OldTitleBar": "1.7.6",
+			"UserNotes": "1.1.0"
 		},
 		"choices": {
 			"toastPosition": "right"
